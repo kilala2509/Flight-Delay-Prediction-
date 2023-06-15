@@ -4,6 +4,13 @@ Flight arrival time prediction is a critical aspect of the aviation industry, as
 # Description
 In this project, we aim to predict flight arrival time from four major US airports to Syracuse, New York using a machine learning model. The model should take into account various factors that can impact arrival times, including weather conditions, airport operations, and other external factors. The primary goal of this project is to improve the accuracy and reliability of flight arrival time predictions, which can have a significant impact on airlines' revenue and customer satisfaction, as well as passengers' travel experience. By providing accurate and reliable predictions, airlines and airports can better plan and manage their operations, reducing delays and cancellations and improving overall efficiency.
 
+# Dependencies
+
+ Python
+ Jupyter Notebook
+ Pandas
+ Numpy
+ 
 # Methodology
 
 In this scenario, we are going to predict the arrival of flights. We will be predicting whether a given flight is Early, On time, Late, or Severely late. This is a classification problem.
